@@ -15,3 +15,8 @@ This is for the purpose of checking the commit from the branch named "docs/add-n
 14:49, 09-23-2024
 
 Added another entry using the main branch.
+
+15:13, 09-23-2024
+
+Created another branch, then make changes to the main text file.
+The purpose is to fully understand how branching works.

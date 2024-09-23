@@ -20,3 +20,4 @@ Added another entry using the main branch.
 
 Created another branch called docs/new-content, then make changes to the main text file.
 The purpose is to fully understand how branching works.
+Do not make a conflict.

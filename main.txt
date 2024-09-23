@@ -22,3 +22,7 @@ Created another branch called docs/new-content, then make changes to the main te
 The purpose is to fully understand how branching works.
 Make a conflict
 Do not make a conflict.
+
+16:47, 09-23-2024
+
+Learning best practices when giving commit messages.
